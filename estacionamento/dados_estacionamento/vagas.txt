@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "identificacao": "PCD",
+    "cobertura": "Coberta",
+    "tipo": "Preferencial",
+    "status": "Livre",
+    "interditada": false,
+    "motivo_interdicao": null
+  }
+]
